@@ -1,0 +1,17 @@
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.Form1.resources
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.AssemblyInfo.cs
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\bin\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.exe
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\bin\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.deps.json
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\bin\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.runtimeconfig.json
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\bin\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.dll
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\bin\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.pdb
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.dll
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\refint\Labirent_Oyunu_WinFormsApp.dll
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.pdb
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\Labirent_Oyunu_WinFormsApp.genruntimeconfig.cache
+C:\Users\Hacer\source\repos\Labirent_Oyunu_Solution\Labirent_Oyunu_WinFormsApp\obj\Debug\net6.0-windows\ref\Labirent_Oyunu_WinFormsApp.dll
